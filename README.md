@@ -11,7 +11,7 @@ In this assignment, we will predict future movements in the value of the Japanes
 2. Linear Regression Modeling
 
 
-## Project Summaruy
+## Project Summary
 
 ### Time-Series Forecasting
 
